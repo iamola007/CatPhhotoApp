@@ -1,3 +1,3 @@
 # CatPhhotoApp
 
-A simple website name CatPhotoApp thhat talks about cats.
+A simple website named CatPhotoApp that talks about cats.
